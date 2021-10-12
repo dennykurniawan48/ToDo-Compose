@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_logo">App Logo</string>
+    <string name="delete_all_task">Remove all task?</string>
+    <string name="delete_task">Delete \'%1$s\'</string>
+    <string name="confirm_delete_task">Are you sure?</string>
+    <string name="app_name">ToDo-Compose</string>
+    <string name="add_btn">Add Button</string>
+    <string name="sort_btn">Sort by priority</string>
+    <string name="more_action">More Action</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="search_task">Search Task</string>
+    <string name="list_taskbar_title">Tasks</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="close_icon">Close</string>
+    <string name="empty_task">Empy task</string>
+</resources>
